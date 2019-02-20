@@ -1,0 +1,159 @@
+<!DOCTYPE html>↩
+<html>↩
+    <head>↩
+        <meta charset="utf-8" />↩
+        <title>FindThePrecious.com</title>↩
+    </head>↩
+↩
+    <body>↩
+        <header>↩
+          <h1>FindThePrecious.com</h1>↩
+       ↩
+        <nav>↩
+                <span><a href="#">Fellows</a></span>↩
+                <span><a href="#">The ring</a></span>↩
+                <span><a href="#">Get my reward</a></span>↩
+                <span><a href="#">Best hunters</a></span>↩
+                <span><a href="#">Join the army</a></span>↩
+                <span><a href="#">Contact us</a></span>↩
+        </nav>↩
+          </header>↩
+        ↩
+        <section>↩
+         <figure>↩
+              <img src="https://via.placeholder.com/140" alt="Fellowship">↩
+              <figcaption>Dangerous fellowship try to destroy the ring. Orcs, Goblins, Balrogs, protect your master Sauron !</figcaption>↩
+          </figure> ↩
+          <h2>Fellows wanted dead (or alive if you want to eat them later)</h2>↩
+            <nav>↩
+                <span><a href="#">Most wanted</a></span>↩
+                <span><a href="#">Most dangerous</a></span>↩
+                <span><a href="#">Already captured</a></span>↩
+            </nav>↩
+          ↩
+          <figure>↩
+            <p>Reward 1000 gold coins</p>↩
+              <img src="https://via.placeholder.com/200" alt="The Wizard">↩
+              <figcaption>The Wizard<br />Small description...↩
+              </figcaption>↩
+          </figure>↩
+         ↩
+          <figure>↩
+              <img src="https://via.placeholder.com/200" alt="Hobbit #3">↩
+              <figcaption>Hobbit #3<br />Small description...</figcaption>↩
+          </figure>↩
+          ↩
+          <figure>↩
+            <p>Reward 250 gold coins</p>↩
+              <img src="https://via.placeholder.com/200" alt="Yummy Dwarf">↩
+              <figcaption>Yummy Dwarf<br />Small description...</figcaption>↩
+          </figure>↩
+         ↩
+      </section>↩
+      <section>↩
+        <h2>I have captured one of them, how to get my reward ?</h2>↩
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat. Aliquam egestas, velit at condimentum placerat, sem sapien laoreet mauris, dictum porttitor lacus est nec enim. Vivamus feugiat elit lorem, eu porttitor ante ultrices id. Phasellus suscipit tellus ante, nec dignissim elit imperdiet nec. Nullam fringilla feugiat nisl. Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris. Suspendisse ut venenatis libero. Suspendisse lorem felis, pretium in maximus id, tempor non ipsum</p>↩
+↩
+            <aside>↩
+             <figure>↩
+              <img src="https://via.placeholder.com/140" alt="Reward">↩
+             </figure>↩
+            </aside>↩
+        <div><a href="#">Contact us</a></div>↩
+      </section>↩
+      <section>↩
+        <h2>Best hunters</h2>↩
+        ↩
+          <figure>↩
+          <img src="https://via.placeholder.com/70" alt="ElvesKiller22">↩
+          </figure>↩
+          <p>ElvesKiller22</p>↩
+          <p>2 captures -<a href="#">Profile</a></p>↩
+          <a href="#">Like</a>↩
+        ↩
+          <figure>↩
+          <img src="https://via.placeholder.com/70" alt="Goblin45">↩
+          </figure>↩
+          <p>Goblin45</p>↩
+          <p>2 captures -<a href="#">Profile</a></p>↩
+          <a href="#">Like</a>↩
+        ↩
+      </section>↩
+      <section>↩
+        <h2>About the ring</h2>↩
+        <div>↩
+          <h3>Ring Capabilities</h3>↩
+          <table>↩
+           <caption>What can our master Sauron do with the ring ?</caption>↩
+           <tr>↩
+            <td>Feature</td>↩
+            <td>Description</td>↩
+           </tr>↩
+          <tr>↩
+           <td>Main</td>↩
+           <td>One ring to rules them all</td>↩
+          </tr>↩
+          <tr>↩
+           <td>Invisibility</td>↩
+           <td>You can't see me</td>↩
+          </tr>↩
+          <tr>↩
+           <td>Power</td>↩
+           <td>Destroy the world</td>↩
+         </tr>↩
+        </table>↩
+        </div>↩
+        <div>↩
+          <h3>Why the ring is awesome ?</h3>↩
+          <p>My preciooooooussssss ! Hrk Hrk, we want our preeciooooouuusssss !!</p>↩
+          <p>Gollum</p>↩
+           <aside>↩
+             <figure>↩
+              <img src="https://via.placeholder.com/110" alt="Ring">↩
+             </figure>↩
+            </aside>↩
+        </div>↩
+      </section>↩
+      <section>↩
+        <h2>Join Mordor Army, we need you !</h2>↩
+        <figure>↩
+              <img src="https://via.placeholder.com/140" alt="Army">↩
+        </figure>↩
+        <article>                ↩
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc maximus, nulla ut commodo sagittis, sapien dui mattis dui, non pulvinar lorem felis nec erat. Aliquam egestas, velit at condimentum placerat, sem sapien laoreet mauris, dictum porttitor lacus est nec enim. Vivamus feugiat elit lorem, eu porttitor ante ultrices id. Phasellus suscipit tellus ante, nec dignissim elit imperdiet nec. Nullam fringilla feugiat nisl. Ut pretium, metus venenatis dictum viverra, dui metus finibus enim, ac rhoncus sem lorem vitae mauris. Suspendisse ut venenatis libero. Suspendisse lorem felis, pretium in maximus id, tempor non ipsum</p>↩
+         </article>↩
+        <div>  <a href="#">More info on SauronRulesThemAll.com</a></div>↩
+      </section>↩
+      <section>↩
+        <h2>Contact us</h2>↩
+        <div class="column">↩
+        <form action="#.php">↩
+        <input type="text" id="email" name="email" placeholder="@">↩
+        <input type="text" id="address" name="address" placeholder="Address..">↩
+        <select id="choice" name="choice">↩
+          <option value="I have seen one of them">I have seen one of them</option>↩
+          <option value="I have captured one of them">I have captured one of them</option>↩
+          <option value="I want to join your army">I want to join your army</option>↩
+        </select>↩
+        <textarea id="message" name="message" placeholder="Your message" style="height:170px">                   </textarea>↩
+        <input type="submit" value="Submit">↩
+        </form>↩
+        </div>↩
+                  ↩
+      </section>↩
+        ↩
+        <footer>↩
+            <p> ↩
+            <a href="#">About us</a><br />↩
+            <a href="#">Fellows</a><br />↩
+            <a href="#">Join our army</a><br />↩
+            <a href="#">FAQ</a><br />↩
+            <a href="#">Reward conditions</a><br />↩
+            <a href="#">Legal mentions</a><br />↩
+            <a href="#">Sauron4Ever.com</a><br />↩
+            <a href="#">Follow him also on twitter</a><br />↩
+            </p>↩
+        </footer>↩
+        ↩
+    </body>↩
+</html>
